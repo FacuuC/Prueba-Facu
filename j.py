@@ -7,6 +7,3 @@ def ImparesHasta (entrada):
         i = i = 1
     return impares
 
-entrada = int(input("ingrese el numero deseado: "))
-resultado = ImparesHasta(entrada)
-print (resultado)
